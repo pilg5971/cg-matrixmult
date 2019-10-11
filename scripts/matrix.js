@@ -45,7 +45,7 @@ class Matrix {
 			//1. Create Storage
 			//2. Loop through final product size - Outer Loop
 			//3. Loop through columns of rhs - Middle Loop
-			//4. Loop through abitrary amount of time corresponding to amount of calculations - Inner Loop
+			//4. Loop through abitrary amount of time corresponding to amount of calculations required - Inner Loop
 			//5. Push data to dummy Arrays
 			//6. Update 'result' and push it to 'this'
 					
